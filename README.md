@@ -1,4 +1,4 @@
-#⛓Validator blockchains:
+# ⛓ Validator blockchains:
 
 # 💫 Info About Me:
 💻 I'm backend developer(on python 🐍)<br>👀 I like to learn new technologies, independently<br>⛓ I am a Validator of different blockchains
