@@ -1,4 +1,7 @@
 # ⛓ Validator blockchains:
+Mainet: Pylons
+<br>Testnet:</br>
+Bundl, Massa,Massa Finance, Celestia, Gear, Kyve, Iroin Fish, Territori, Sui, Rebus, Aleo, Aptos, Starknet, Subspace, Exorde, Nomada
 
 # 💫 Info About Me:
 💻 I'm backend developer(on python 🐍)<br>👀 I like to learn new technologies, independently<br>⛓ I am a Validator of different blockchains
