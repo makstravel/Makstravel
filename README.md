@@ -1,6 +1,6 @@
 # ⛓ Validator blockchains:
-Mainet: Pylons
-<br>Testnet:</br>
+<b>Mainet:</b> Pylons
+<b><br>Testnet:</b></br>
 Bundl, Massa,Massa Finance, Celestia, Gear, Kyve, Iroin Fish, Territori, Sui, Rebus, Aleo, Aptos, Starknet, Subspace, Exorde, Nomada
 
 # 💫 Info About Me:
