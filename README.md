@@ -4,7 +4,7 @@
 # ⛓ Validator blockchains:
 <b>Mainet:</b> Pylons
 <b><br>Testnet:</b></br>
-Aleo, Aptos, Bundl, Massa, Massa Finance, Celestia, Gear, Kyve, Iroin Fish, Territori, Sui, Stride, Rebus, Starknet, Subspace, Exorde, Nomada, QuickSilver, Kujira, Archvay, Sharderium 
+Aleo, Aptos, Bundlr, Massa, Massa Finance, Celestia, Gear, Kyve, Iroin Fish, Territori, Sui, Stride, Rebus, Starknet, Subspace, Exorde, Nomada, QuickSilver, Kujira, Archvay, Sharderium 
 
 
 # 💻 Tech Stack:
