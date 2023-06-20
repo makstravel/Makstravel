@@ -1,4 +1,4 @@
-# 💫HI Info About Me:
+# 💫Info About Me:
 💻 I'm backend developer --> Python 🐍<br>👀 I learning technologies - programming, WEB3, Pentesting<br>⛓ I am Validator of blockchains
 
 # ⛓ Validator blockchains:
