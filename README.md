@@ -2,7 +2,7 @@
 💻 I'm backend developer --> Python 🐍<br>👀 I learning technologies - Programming, WEB3, Pentesting<br>⛓ I am Validator of blockchains
 
 # ⛓ Validator blockchains:
-<b>Mainet:</b> Pylons
+<b>Mainet:</b> Pylons, Massa
 <b><br>Testnet:</b></br>
 Aleo, Aptos, Bundlr, Massa, Masa Finance, Celestia, Gear, Kyve, Iroin Fish, Taiko, Territori, Sui, Stride, Rebus, Starknet, Subspace, Exorde, Namada, QuickSilver, Kujira, Archvay, Sharderium, Lava
 
