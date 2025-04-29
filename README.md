@@ -6,6 +6,7 @@
 
 # 💻 Python projects:
 <h4>Booking App on FastAPI</h4>
+Сервис бронирования отелей
 https://github.com/makstravel/bookings_app_fastapi
 
 <h4>Тестовое задание Order Service</h4>
