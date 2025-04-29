@@ -8,6 +8,15 @@
 <h4>Booking App on FastAPI</h4>
 https://github.com/makstravel/bookings_app_fastapi
 
+<h4>Тестовое задание Order Service</h4>
+Order Service — сервис для управления заказами, разработанный с использованием FastAPI, PostgreSQL, Redis, RabbitMQ и Celery+Flower.
+https://github.com/makstravel/order_service_testovoe
+
+<h4>Тестовое заданиие - Сервис управления отпусками сотрудников</h4>
+Проект поддерживает проверку стиля и типов
+https://github.com/makstravel/testovoe_sirius
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maks_travel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/makstravel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@maks_travel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maks_travel) 
 
